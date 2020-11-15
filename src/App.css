@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.posts-list span {
+  display: inline-block;
+  margin: 0 15px;
+  cursor: pointer;
+}
+
+.posts-list span:hover {
+  text-decoration: underline;
+}
